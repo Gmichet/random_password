@@ -1,6 +1,6 @@
 # Generador de Contraseñas Aleatorias
 
-Este es un script en Python que genera contraseñas aleatorias de la longitud especificada por el usuario.
+Este es un script en Python que genera contraseñas aleatorias de acuerdo a la longitud especificada por el usuario.
 
 ![Ejemplo](/example_image/ejemplo.png)
 
